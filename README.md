@@ -24,6 +24,7 @@ invoke Make, which will output the compiled files into the `build/` directory
 (which will be created if it does not already exist).
 
 ```shell
+sudo apt-get install libjpeg8-dev indent libfreetype6-dev ttf-dejavu-core
 make
 ```
 
