@@ -32,7 +32,10 @@ The application can be run from the command line using the following syntax:
 
 ```shell
 ./build/font2openvg ["input-path"] ["output-path"] ["font-name"]
+Ex: ./font2openvg /usr/share/fonts/truetype/ttf-dejavu/DejaVuSansMono.ttf DejaVuSansMono.inc DejaVuSansMono
 ```
+
+Useful git repo that might give some hints on usage: https://github.com/ajstarks/openvg
 
 ## License
 
